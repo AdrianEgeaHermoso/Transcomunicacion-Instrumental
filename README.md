@@ -22,6 +22,8 @@ El alumno puede encontrar ficheros con las palabras que tiene el idioma españo
 http://lasr.cs.ucla.edu/geoff/ispell-dictionaries.html#Spanish-dicts
 
 # Guia de Uso
-1. En el terminal, situate en el directorio del proyecto.
-2. Ejecuta el comando java Tci [nombre]
-3. Sigue las instrucciones y ve eligiendo las opciones que se muestran en la consola.
+1. Clona el repositorio en tu equipo con el comando git clone y copiando el enlace de la manera que muestro en la imagen.
+2. En el terminal, situate en el directorio del proyecto.
+3. Ejecuta el comando javac Tci.java para compilarlo.
+4. Ejecuta el comando java Tci [nombre] para ejecutarlo.
+5. Sigue las instrucciones y ve eligiendo las opciones que se muestran en la consola.
