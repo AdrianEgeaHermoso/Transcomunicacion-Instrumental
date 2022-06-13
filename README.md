@@ -20,3 +20,9 @@ Una vez creado el fichero de texto, el programa deberá ser capaz de analizarlo
 El alumno puede encontrar ficheros con las palabras que tiene el idioma español en formato digital en la siguiente dirección. Se trata de una muestra, hay otros muchos diccionarios disponibles en internet:
 
 http://lasr.cs.ucla.edu/geoff/ispell-dictionaries.html#Spanish-dicts
+
+# Guia de Uso
+1. Clona el repositorio.
+2. En el terminal, situate en el directorio del proyecto.
+3. Ejecuta el comando java Tci [nombre]
+4. Sigue las instrucciones y ve eligiendo las opciones que se muestran en la consola.
