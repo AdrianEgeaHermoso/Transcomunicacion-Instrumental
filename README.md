@@ -28,3 +28,6 @@ http://lasr.cs.ucla.edu/geoff/ispell-dictionaries.html#Spanish-dicts
 4. Ejecuta el comando java Tci [nombre] para ejecutarlo.
 5. Sigue las instrucciones y ve eligiendo las opciones que se muestran en la consola.<img height="300px" width="800px" src="/images/1.png">
 6. A continuación se abrira una ventana en el navegador con el texto que ha recogido la portadora, y resaltadas las palabras que coinciden con el diccionario español.<img height="400px" width="1000px" src="/images/2.png">
+
+# Diccionario
+Lo he descargado de la página https://www.tlm.unavarra.es/mod/resource/view.php?id=9652
